@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ingressos</string>
+    <string name="autor">JOÃO VITOR LIMA COSTA - RA: 1110482313015</string>
+
+    <string name="rbtn_normal">Ingresso Normal</string>
+    <string name="rbtn_vip">Ingresso VIP</string>
+    <string name="btn_comprar">Comprar</string>
+    <string name="et_funcao">Função</string>
+
+    <string name="btn_voltar">voltar</string>
+
+    <string name="txt_tipoNormal">Tipo de Ingresso: Normal</string>
+    <string name="txt_tipoVip">Tipo de Ingresso: VIP</string>
+    <string name="txt_funcao">Função:</string>
+    <string name="txt_custo">Custo do Ingresso:</string>
+    <string name="txt_taxa">Taxa de Conveniência: 3%</string>
+    <string name="txt_taxaVIP">Taxa VIP: 18%</string>
+    <string name="txt_total">Total:</string>
+    <string name="txt_codigo">Código:</string>
+</resources>
